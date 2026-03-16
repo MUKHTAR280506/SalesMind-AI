@@ -1,7 +1,11 @@
 
-
-
-
+![1-welcome message](https://github.com/user-attachments/assets/5ee808a2-e502-4013-ba34-c59ff85cc74b)
+![7-payment successful message with payment id and order id appears on chatwindow](https://github.com/user-attachments/assets/58006cd2-03aa-43ca-91b3-fbdfefc9c06a)
+![6-payment confirms and window will go back to chat ui](https://github.com/user-attachments/assets/43ad448b-a535-4437-b7f2-cbe259eba36b)
+![5-payment page opens after user enters mail id](https://github.com/user-attachments/assets/a03bb183-2506-42ab-885e-4235878e5538)
+![4-user enters email id when he clicks buy button](https://github.com/user-attachments/assets/912f2a4b-8a67-4429-afb0-a5a3dc7dbd1a)
+![3-discount chat](https://github.com/user-attachments/assets/f49c7cee-8775-408d-b403-13626a704bf7)
+![2-purchase chat](https://github.com/user-attachments/assets/0818bda7-1875-459b-8dbb-b2069ea0f400)
 
 
 ### SalesMind AI – Intelligent Conversational Sales Assistant
