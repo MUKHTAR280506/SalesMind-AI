@@ -4,7 +4,7 @@
 
 
 
-SalesMind AI – Intelligent Conversational Sales Assistant
+### SalesMind AI – Intelligent Conversational Sales Assistant
 
 SalesMind AI is a full-stack AI-powered sales chatbot that helps users discover products, get recommendations, and complete purchases through a conversational interface.The system combines Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), vector search, and real-time payments to create an intelligent shopping assistant. The chatbot can answer product questions, recommend items, capture leads, and process payments seamlessly.
 
